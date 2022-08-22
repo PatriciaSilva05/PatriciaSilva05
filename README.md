@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatriciaSilva05
 - 👀 I’m interested in nada
 - 🌱 I’m currently learning web
-- 😒I’m looking to collaborate on Patricia
+- 😊I’m looking to collaborate on Patricia
 
 
 <!---
